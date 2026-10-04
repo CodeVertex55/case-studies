@@ -1,6 +1,6 @@
 # Case studies
 
-Production work by [Talha Muneer](https://github.com/talha55) for agencies and small businesses. Each study covers the problem, what was built, the architecture, and measured results. No source code is included. Client code stays private.
+Production work by [Talha Muneer](https://github.com/talha55) for agencies, international clients and small businesses, with projects in the United States and Australia. Each study covers the problem, what was built, the architecture, and measured results. No source code is included. Client code stays private.
 
 | | Project | Type | Stack |
 |---|---|---|---|
