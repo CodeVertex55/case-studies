@@ -11,7 +11,7 @@
 | Stack | Laravel 12, PHP 8, Blade, MariaDB, static page cache, shared hosting (cPanel) |
 | Live | https://www.budgetpest.com.au |
 | Year | 2026 |
-| Role | Solo build, delivered through an agency |
+| Role | Solo build as a freelance developer for Reign Media |
 
 ## The problem
 

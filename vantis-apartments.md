@@ -11,7 +11,7 @@
 | Stack | Next.js, React, TypeScript, React Hook Form, Zod, MapLibre with OpenStreetMap data, Google Tag Manager, Vercel |
 | Live | https://www.vantisapartments.com.au |
 | Year | 2026 |
-| Role | Solo build, delivered through an agency |
+| Role | Solo build as a freelance developer for Reign Media |
 
 ## The problem
 

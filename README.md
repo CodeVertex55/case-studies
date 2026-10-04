@@ -15,4 +15,6 @@ Production work by [Talha Muneer](https://github.com/talha55) for agencies, smal
 | <img src="assets/vantis-apartments/hero.png" width="200" alt="Vantis Apartments"> | [Vantis Apartments](vantis-apartments.md) | Pre-launch property campaign site | Next.js, MapLibre, Tag Manager |
 | | [WordPress malware cleanup](wordpress-malware-cleanup.md) | Security incident response, anonymised | WordPress, PHP, MySQL |
 
+Shorter entries for eleven more sites on Webflow, Shopify and WordPress are in [More client work](more-client-work.md).
+
 Screenshots are of publicly accessible pages and remain the property of the respective businesses. See [LICENSE](LICENSE) for how the written content may be used and [ATTRIBUTION.md](ATTRIBUTION.md) for which clients have agreed to be named.

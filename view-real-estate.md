@@ -11,7 +11,7 @@
 | Stack | Laravel 12, Blade, Alpine.js, Vue islands, Filament admin, MariaDB, shared hosting (cPanel) |
 | Live | https://viewre.com.au |
 | Year | 2026 |
-| Role | Solo build, delivered through an agency |
+| Role | Solo build as a freelance developer for Reign Media |
 
 ## The problem
 
