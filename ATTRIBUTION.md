@@ -15,15 +15,15 @@ Nothing in this repo names a client until the row below says yes. Rows marked no
 | rizing-metrics-site | Rizing Metrics | yes | 2026-10-04 |
 | ai-seo-for-me | AI SEO For Me | yes | 2026-10-04 |
 | vantis-apartments | Vantis Apartments | yes | 2026-10-04 |
-| more-client-work | Reign Media (agency, named as such) | yes | 2026-10-04 |
-| more-client-work | Dave & Buster's Perth | yes | 2026-10-04 |
-| more-client-work | MedView Education | yes | 2026-10-04 |
-| more-client-work | Magnet House | yes | 2026-10-04 |
-| more-client-work | Codee Energy | yes | 2026-10-04 |
-| more-client-work | Teysha | yes | 2026-10-04 |
-| more-client-work | Heritage Finance | yes | 2026-10-04 |
-| more-client-work | Village Green Europe | yes | 2026-10-04 |
-| more-client-work | Codee Cleaning | yes | 2026-10-04 |
-| more-client-work | Each One Teach One Foundation | yes | 2026-10-04 |
-| more-client-work | OOBER | yes | 2026-10-04 |
+| reign-media | Reign Media (agency, named as such) | yes | 2026-10-04 |
+| dave-and-busters | Dave & Buster's Perth | yes | 2026-10-04 |
+| medview-education | MedView Education | yes | 2026-10-04 |
+| magnet-house | Magnet House | yes | 2026-10-04 |
+| codee-energy | Codee Energy | yes | 2026-10-04 |
+| teysha | Teysha | yes | 2026-10-04 |
+| heritage-finance | Heritage Finance | yes | 2026-10-04 |
+| village-green-europe | Village Green Europe | yes | 2026-10-04 |
+| codee-cleaning | Codee Cleaning | yes | 2026-10-04 |
+| each-one-teach-one | Each One Teach One Foundation | yes | 2026-10-04 |
+| oober | OOBER | yes | 2026-10-04 |
 | wordpress-malware-cleanup | multiple, anonymised | no, always anonymised | 2026-10-04 |
