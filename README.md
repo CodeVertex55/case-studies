@@ -6,7 +6,7 @@ Production work by [Talha Muneer](https://github.com/talha55) for agencies, smal
 |---|---|---|---|
 | <img src="assets/rizing-growth-os/framed.jpg" width="200" alt="Rizing Growth OS"> | [Rizing Growth OS](rizing-growth-os.md) | AI audit SaaS | Next.js, NestJS, Postgres, BullMQ |
 | <img src="assets/view-real-estate/framed.jpg" width="200" alt="View Real Estate"> | [View Real Estate](view-real-estate.md) | Agency site with CRM-fed listings | Laravel, REAXML, MariaDB |
-| <img src="assets/atlanta-ink/framed.jpg" width="200" alt="ATLANTA INK"> | [ATLANTA INK®](atlanta-ink.md) | Studio site with booking and chat | Next.js, MDX, Vercel |
+| <img src="assets/atlanta-ink/framed.jpg" width="200" alt="ATLANTA INK"> | [ATLANTA INK®](atlanta-ink.md) | Studio site with booking and chat, plus an event booking app with card deposits | Next.js, MDX, Postgres, Vercel |
 | <img src="assets/mow-ampturf/framed.jpg" width="200" alt="Mow, Inc."> | [Mow, Inc. and AMPTurf](mow-ampturf.md) | Two local service sites, one per brand | Next.js, structured data, Vercel |
 | <img src="assets/affordable-patio-covers/framed.jpg" width="200" alt="Affordable Patio Covers"> | [Affordable Patio Covers](affordable-patio-covers.md) | Local service site with estimate requests | Next.js, GSAP, Vercel |
 | <img src="assets/mana-mandala-studio/framed.jpg" width="200" alt="Mana Mandala Studio"> | [Mana Mandala Studio](mana-mandala-studio.md) | Contractor portfolio site | Next.js, GSAP, Google Places |

@@ -7,8 +7,8 @@
 | | |
 |---|---|
 | Industry | Tattoo, piercing and jewellery studio, Grant Park, Atlanta |
-| Type | Studio website with artist portfolios, booking requests and a chat assistant |
-| Stack | Next.js 16, TypeScript, Tailwind, Motion, GSAP, Lenis, MDX, Cloudflare Turnstile, transactional email API, LLM-backed chat, Vercel |
+| Type | Studio website with artist portfolios, booking requests and a chat assistant, plus an event booking app that takes card deposits |
+| Stack | Next.js 16, TypeScript, Tailwind, Motion, GSAP, Lenis, MDX, Cloudflare Turnstile, transactional email API, LLM-backed chat, managed Postgres, hosted card checkout with signed webhooks, Vercel Cron, Vercel |
 | Live | https://www.atlantaink.com |
 | Year | 2026 |
 | Role | Solo build, delivered through an agency |
@@ -25,7 +25,9 @@ ATLANTA INK® had a template site on a hosted website builder that looked like e
 - One server-side form handler for every form on the site, with schema validation, a honeypot, bot protection and rate limiting, sending branded notification and confirmation emails.
 - A chat assistant that answers from the same content files the pages render, so it stays current with the site, and that hands a lead to the studio when a visitor wants a call back. It is rate limited and has written rules about what it may not promise.
 - The existing blog migrated to MDX with its original slugs, plus redirects for every other legacy URL.
-- A separate event booking app (voucher redemption, artist and time-slot selection, an admin calendar) that runs as its own deployment and is mounted under the main domain.
+- A separate event booking app that runs as its own deployment and is mounted under the main domain. Guests either redeem a printed voucher for a free event design, or book one of 30 paid designs with a $25 deposit, then pick an artist, a date and a time on one scrolling page.
+- Card deposits through a hosted checkout. A paid booking holds its slot for 30 minutes while the guest pays; a signed webhook marks it paid and sends the confirmation emails, and an abandoned checkout is released automatically by a scheduled sweep, so a slot is never stuck.
+- An admin for the studio: a day, week and month calendar for blocking days off and adding phone bookings, voucher codes with printable QR sheets, deposit totals, and a settings screen where payment and email credentials are stored encrypted. Sign-in is email and password with lockouts and bot protection.
 
 ## Architecture
 
@@ -41,12 +43,16 @@ flowchart LR
   A --> M
   S -->|/jameson| E[Separate event booking app]
   E --> DB[(Managed Postgres)]
+  E -->|deposit| P[Hosted card checkout]
+  P -->|signed webhook| E
+  E --> M
 ```
 
 ## Results
 
 - The studio moved off the website builder without changing an artist or blog URL, so existing links and search listings carried over.
 - Booking stayed in the system the artists already use. The site's job is to get the visitor to the right calendar, and it does not duplicate one.
+- The event app takes paid bookings as well as voucher redemptions, and a booking with a deposit is only confirmed once the payment provider reports the payment as complete.
 - Missing client content ships as nothing, never as filler. No reviews, artist credits or statistics on the site were invented.
 
 ## What the client got
