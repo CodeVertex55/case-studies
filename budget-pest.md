@@ -1,6 +1,6 @@
 # Budget Pest Control
 
-![Budget Pest Control home page](assets/budget-pest/hero.png)
+![Budget Pest Control home page](assets/budget-pest/framed.jpg)
 
 ## At a glance
 

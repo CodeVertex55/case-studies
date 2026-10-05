@@ -1,6 +1,6 @@
 # Codee Consumables
 
-![Codee Consumables home page](assets/codee-consumables/hero.png)
+![Codee Consumables home page](assets/codee-consumables/framed.jpg)
 
 ## At a glance
 

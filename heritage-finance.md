@@ -1,6 +1,6 @@
 # Heritage Finance
 
-![Heritage Finance home page](assets/heritage-finance/hero.png)
+![Heritage Finance home page](assets/heritage-finance/framed.jpg)
 
 ## At a glance
 

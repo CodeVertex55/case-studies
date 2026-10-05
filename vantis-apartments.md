@@ -1,6 +1,6 @@
 # Vantis Apartments
 
-![Vantis Apartments home page](assets/vantis-apartments/hero.png)
+![Vantis Apartments home page](assets/vantis-apartments/framed.jpg)
 
 ## At a glance
 

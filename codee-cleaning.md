@@ -1,6 +1,6 @@
 # Codee Cleaning
 
-![Codee Cleaning home page](assets/codee-cleaning/hero.png)
+![Codee Cleaning home page](assets/codee-cleaning/framed.jpg)
 
 ## At a glance
 

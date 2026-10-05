@@ -1,6 +1,6 @@
 # View Real Estate
 
-![View Real Estate home page](assets/view-real-estate/hero.png)
+![View Real Estate home page](assets/view-real-estate/framed.jpg)
 
 ## At a glance
 

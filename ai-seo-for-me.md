@@ -1,6 +1,6 @@
 # AI SEO For Me
 
-![AI SEO For Me home page](assets/ai-seo-for-me/hero.png)
+![AI SEO For Me home page](assets/ai-seo-for-me/framed.jpg)
 
 ## At a glance
 

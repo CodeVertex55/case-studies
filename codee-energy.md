@@ -1,6 +1,6 @@
 # Codee Energy
 
-![Codee Energy home page](assets/codee-energy/hero.png)
+![Codee Energy home page](assets/codee-energy/framed.jpg)
 
 ## At a glance
 

@@ -1,6 +1,6 @@
 # ATLANTA INK®
 
-![ATLANTA INK home page](assets/atlanta-ink/hero.png)
+![ATLANTA INK home page](assets/atlanta-ink/framed.jpg)
 
 ## At a glance
 

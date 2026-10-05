@@ -1,6 +1,6 @@
 # Village Green Europe
 
-![Village Green Europe home page](assets/village-green-europe/hero.png)
+![Village Green Europe home page](assets/village-green-europe/framed.jpg)
 
 ## At a glance
 

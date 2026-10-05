@@ -1,6 +1,6 @@
 # Rizing Growth OS
 
-![Rizing Growth OS home page](assets/rizing-growth-os/hero.png)
+![Rizing Growth OS home page](assets/rizing-growth-os/framed.jpg)
 
 ## At a glance
 

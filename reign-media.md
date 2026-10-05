@@ -1,6 +1,6 @@
 # Reign Media
 
-![Reign Media home page](assets/reign-media/hero.png)
+![Reign Media home page](assets/reign-media/framed.jpg)
 
 ## At a glance
 

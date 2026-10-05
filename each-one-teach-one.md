@@ -1,6 +1,6 @@
 # Each One Teach One Foundation
 
-![Each One Teach One Foundation home page](assets/each-one-teach-one/hero.png)
+![Each One Teach One Foundation home page](assets/each-one-teach-one/framed.jpg)
 
 ## At a glance
 

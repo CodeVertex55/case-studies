@@ -1,6 +1,6 @@
 # Mow, Inc. and AMPTurf
 
-![Mow, Inc. home page](assets/mow-ampturf/hero.png)
+![Mow, Inc. home page](assets/mow-ampturf/framed.jpg)
 
 ![AMPTurf home page](assets/mow-ampturf/ampturf.png)
 

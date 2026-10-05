@@ -1,6 +1,6 @@
 # OOBER dispatch panel
 
-![OOBER sign-in page](assets/oober/hero.png)
+![OOBER sign-in page](assets/oober/framed.jpg)
 
 ## At a glance
 

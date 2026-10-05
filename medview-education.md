@@ -1,6 +1,6 @@
 # MedView Education
 
-![MedView Education home page](assets/medview-education/hero.png)
+![MedView Education home page](assets/medview-education/framed.jpg)
 
 ## At a glance
 

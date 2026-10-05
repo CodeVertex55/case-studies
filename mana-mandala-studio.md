@@ -1,6 +1,6 @@
 # Mana Mandala Studio
 
-![Mana Mandala Studio home page](assets/mana-mandala-studio/hero.png)
+![Mana Mandala Studio home page](assets/mana-mandala-studio/framed.jpg)
 
 ## At a glance
 

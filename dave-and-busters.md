@@ -1,6 +1,6 @@
 # Dave & Buster's Perth
 
-![Dave & Buster's Perth home page](assets/dave-and-busters/hero.png)
+![Dave & Buster's Perth home page](assets/dave-and-busters/framed.jpg)
 
 ## At a glance
 

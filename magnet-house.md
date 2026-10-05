@@ -1,6 +1,6 @@
 # Magnet House
 
-![Magnet House home page](assets/magnet-house/hero.png)
+![Magnet House home page](assets/magnet-house/framed.jpg)
 
 ## At a glance
 

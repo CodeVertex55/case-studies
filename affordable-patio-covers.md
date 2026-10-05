@@ -1,6 +1,6 @@
 # Affordable Patio Covers
 
-![Affordable Patio Covers home page](assets/affordable-patio-covers/hero.png)
+![Affordable Patio Covers home page](assets/affordable-patio-covers/framed.jpg)
 
 ## At a glance
 

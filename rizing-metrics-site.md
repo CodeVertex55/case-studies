@@ -1,6 +1,6 @@
 # Rizing Metrics marketing site
 
-![Rizing Metrics home page](assets/rizing-metrics-site/hero.png)
+![Rizing Metrics home page](assets/rizing-metrics-site/framed.jpg)
 
 ## At a glance
 

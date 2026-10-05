@@ -1,6 +1,6 @@
 # Teysha
 
-![Teysha home page](assets/teysha/hero.png)
+![Teysha home page](assets/teysha/framed.jpg)
 
 ## At a glance
 
