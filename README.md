@@ -1,6 +1,6 @@
 # Case studies
 
-Production work by [Talha Muneer](https://github.com/talha55) for agencies, small businesses and large international firms, with clients in the United States, Australia, the United Kingdom and across Europe. Each study covers the problem, what was built, the architecture, and measured results. No source code is included. Client code stays private.
+Production work by [Talha Muneer](https://www.talhamuneer.com), full-stack and AI engineer, for agencies, small businesses and large international firms, with clients in the United States, Australia, the United Kingdom and across Europe. Each study covers the problem, what was built, the architecture, and measured results. No source code is included. Client code stays private.
 
 | | Project | Type | Stack |
 |---|---|---|---|
@@ -27,3 +27,5 @@ Production work by [Talha Muneer](https://github.com/talha55) for agencies, smal
 | | [WordPress malware cleanup](wordpress-malware-cleanup.md) | Security incident response, anonymised | WordPress, PHP, MySQL |
 
 Screenshots are of publicly accessible pages and remain the property of the respective businesses. See [LICENSE](LICENSE) for how the written content may be used and [ATTRIBUTION.md](ATTRIBUTION.md) for which clients have agreed to be named.
+
+Talha Muneer: [talhamuneer.com](https://www.talhamuneer.com) · [GitHub](https://github.com/talha55) · [LinkedIn](https://www.linkedin.com/in/talha-muneer/)
