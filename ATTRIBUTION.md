@@ -2,7 +2,7 @@
 
 Nothing in this repo names a client until the row below says yes. Rows marked no, or left blank, use an anonymised description in the write-up.
 
-| Slug | Client or brand | May be named publicly | Confirmed by Talha on |
+| Slug | Client or brand | May be named publicly | Confirmed on |
 |---|---|---|---|
 | rizing-growth-os | Rizing Metrics | yes | 2026-10-03 |
 | view-real-estate | View Real Estate | yes | 2026-10-03 |
